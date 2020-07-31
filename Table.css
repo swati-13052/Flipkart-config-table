@@ -1,0 +1,18 @@
+.tableRow {
+    display: flex;
+    width: 60%;
+    margin: auto;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #e2e2e2;
+}
+
+.tableRow div {
+    width:  20%;
+    text-align: left;
+}
+
+.disabled {
+    pointer-events: none;
+    background: #e2e2e2;
+}

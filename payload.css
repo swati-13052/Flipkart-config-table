@@ -1,0 +1,24 @@
+.configInfo {
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+}
+
+.configData {
+    border: 1px solid #e2e2e2;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.configDivHeading {
+    width: 25%;
+    font-weight: 600;
+}
+
+.configDivValue {
+    width: 50%;
+}
+
+.payloadContainer {
+    margin-top: 10px;
+}
